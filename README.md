@@ -369,7 +369,7 @@ Local virtual devices with high performances.
 <img src="https://user-images.githubusercontent.com/45159366/108637388-37a11f80-743f-11eb-9f37-6e22e1172f2d.png">
 </p>
 
-[Scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 147,903 | 🐛 2,881 | 🌐 C | 📅 2026-08-17 is an application by Genymotion that provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access and works on GNU/Linux, Windows and macOS. The Android device requires at least API 21 (Android 5.0).
+[Scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 147,949 | 🐛 2,882 | 🌐 C | 📅 2026-08-17 is an application by Genymotion that provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access and works on GNU/Linux, Windows and macOS. The Android device requires at least API 21 (Android 5.0).
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/108637389-396ae300-743f-11eb-971a-f5b554033552.jpg">
@@ -393,7 +393,7 @@ Local virtual devices with high performances.
 
 [Flutter documentation](https://flutter.dev/docs)
 
-[Style Guide for Flutter](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo) ⭐ 178,488 | 🐛 13,163 | 🌐 Dart | 📅 2026-08-19
+[Style Guide for Flutter](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo) ⭐ 178,509 | 🐛 13,150 | 🌐 Dart | 📅 2026-08-20
 
 [Creating your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 
@@ -429,13 +429,13 @@ Local virtual devices with high performances.
 
 [FlutterFire](https://firebase.flutter.dev/) is a set of [Flutter plugins](https://flutter.io/platform-plugins/) that enable Flutter apps to use [Firebase](https://firebase.google.com/) services. You can follow an example that shows how to use these plugins in the [Firebase for Flutter](https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html#0) codelab.
 
-[FlutterBoost](https://github.com/alibaba/flutter_boost) ⭐ 7,192 | 🐛 419 | 🌐 Dart | 📅 2026-06-09 is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.
+[FlutterBoost](https://github.com/alibaba/flutter_boost) ⭐ 7,193 | 🐛 419 | 🌐 Dart | 📅 2026-06-09 is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.
 
-[Go-flutter](https://github.com/go-flutter-desktop/go-flutter) ⭐ 5,931 | 🐛 65 | 🌐 Go | 📅 2026-08-17 is a package that brings Flutter to the desktop. project implements the [Flutter's Embedding API](https://github.com/flutter/flutter/wiki/Custom-Flutter-Engine-Embedders) ⭐ 178,488 | 🐛 13,163 | 🌐 Dart | 📅 2026-08-19 using a single code base that runs on Windows, macOS, and Linux. For rendering, [GLFW](https://github.com/go-gl/glfw) ⭐ 1,690 | 🐛 26 | 🌐 C | 📅 2026-08-02 fits the job because it provides the right abstractions over the OpenGL's Buffer/Mouse/Keyboard for each platform.
+[Go-flutter](https://github.com/go-flutter-desktop/go-flutter) ⭐ 5,930 | 🐛 65 | 🌐 Go | 📅 2026-08-19 is a package that brings Flutter to the desktop. project implements the [Flutter's Embedding API](https://github.com/flutter/flutter/wiki/Custom-Flutter-Engine-Embedders) ⭐ 178,509 | 🐛 13,150 | 🌐 Dart | 📅 2026-08-20 using a single code base that runs on Windows, macOS, and Linux. For rendering, [GLFW](https://github.com/go-gl/glfw) ⭐ 1,690 | 🐛 26 | 🌐 C | 📅 2026-08-02 fits the job because it provides the right abstractions over the OpenGL's Buffer/Mouse/Keyboard for each platform.
 
 [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment.
 
-[Fluro](https://github.com/theyakka/fluro) ⭐ 3,712 | 🐛 43 | 🌐 Dart | 📅 2023-03-22 is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.
+[Fluro](https://github.com/theyakka/fluro) ⭐ 3,713 | 🐛 43 | 🌐 Dart | 📅 2023-03-22 is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.
 
 [Flame](https://flame-engine.org/) is a minimalistic Flutter game engine.
 
@@ -481,7 +481,7 @@ Local virtual devices with high performances.
 
 [Caffe](https://github.com/BVLC/caffe) ⭐ 34,560 | 🐛 1,566 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
 
-[Theano](https://github.com/Theano/Theano) ⭐ 9,997 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
+[Theano](https://github.com/Theano/Theano) ⭐ 9,998 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
 
 [nGraph](https://github.com/NervanaSystems/ngraph) ⚠️ Archived is an open source C++ library, compiler and runtime for Deep Learning. The nGraph Compiler aims to accelerate developing AI workloads using any deep learning framework and deploying to a variety of hardware targets.It provides the freedom, performance, and ease-of-use to AI developers.
 
@@ -493,9 +493,9 @@ Local virtual devices with high performances.
 
 [Eclipse Deeplearning4J (DL4J)](https://deeplearning4j.konduit.ai/) is a set of projects intended to support all the needs of a JVM-based(Scala, Kotlin, Clojure, and Groovy) deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,124 | 🐛 1,799 | 🌐 Python | 📅 2026-08-19 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,124 | 🐛 1,798 | 🌐 Python | 📅 2026-08-19 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,258 | 🐛 703 | 🌐 Python | 📅 2026-08-18 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,258 | 🐛 707 | 🌐 Python | 📅 2026-08-20 for high performance training and inference.
 
 # Networking
 
@@ -660,7 +660,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) enables running virtualized computer systems on top of a physical host. These virtualized systems can be used and managed just as if they were physical computer systems, however they exist in virtualized and isolated environment. Special software called a hypervisor manages access between the virtual systems and the physical hardware resources. Virtualization enables quick deployment of computer systems, a way to quickly restore systems to a previously known good state, and the ability to migrate systems between physical hosts.
 
-[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,229 | 🐛 161 | 🌐 Python | 📅 2026-08-15 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
+[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,228 | 🐛 161 | 🌐 Python | 📅 2026-08-15 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
 
 [oVirt](https://www.ovirt.org) is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.Founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based allowing for centralized management of virtual machines, compute, storage and networking resources, from an easy-to-use web-based front-end with platform independent access.
 
@@ -799,4 +799,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
