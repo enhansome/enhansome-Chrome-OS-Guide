@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.\nChrome OS Features is a Linux-based operating system developed by Google, with an emphasis on simplicity and security. As a cloud-based operating system, it uses the Chrome web browser as its primary user interface. In 2016, access to Android apps via the Google Play Store available on select Chrome OS devices. Finally, in 2018 Linux apps are now running natively on select devices via Project Crostini.\nChrome OS Flex is a free and sustainable way to modernize devices you already own. It’s easy to deploy across your fleet or simply try it to see what a cloud-first OS has to offer for PCs and Macs. The easiest way to get ChromeOS Flex is by using the Chromebook Recovery Utility extension.\nChrome OS Enterprise\nChrome OS VM for Chromium developers\nUsing LXD(Linux container manager) on your Chromebook\nUsing VScode on Chrome OS\nChromebook Community - Google Support\nChrome OS Wiki\nCrostini Wiki\nCrostini KDE Apps Setup is a tool that initializes a Chromebook Linux container to run KDE Apps. It also installs Discover which is an elegant, easy-to-use \"app store\" for Linux apps and nearly every app.\nChromium OS is an open-source project that aims to build an operating system that provides a fast, simple, and more secure computing experience for people who spend most of their time on the web.\nchromeOS.dev is the digital home for all things Chrome OS. Learn how to adapt and optimize your existing apps to work on Chrome OS, the success other companies have had doing so, how to use Chrome OS as your developer machine, and keep up-to-date with the latest on Chrome OS.\nChrome Unboxed is a great website for learning all things Google Chrome. Such as the news, updates, reviews and unboxings.\nAndroid Runtime for Chrome (ARC) is a compatibility layer and sandboxing technology for running Android applications on desktop and laptop computers in an isolated environment. It allows applications to be safely run from a web browser, independent of Chrome OS at near native speeds.\nCloudReady is a ChromeOS alternative built from the source available in ChromiumOS repositories developed by Neverware. Neverware was acquired by Google in December 2020.",
+      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.\nChrome OS Features is a Linux-based operating system developed by Google, with an emphasis on simplicity and security. As a cloud-based operating system, it uses the Chrome web browser as its primary user interface. In 2016, access to Android apps via the Google Play Store available on select Chrome OS devices. Finally, in 2018 Linux apps are now running natively on select devices via Project Crostini.\nChrome OS Flex is a free and sustainable way to modernize devices you already own. It’s easy to deploy across your fleet or simply try it to see what a cloud-first OS has to offer for PCs and Macs. The easiest way to get ChromeOS Flex is by using the Chromebook Recovery Utility extension.\nChrome OS Enterprise\nChrome OS VM for Chromium developers\nUsing LXD(Linux container manager) on your Chromebook\nUsing VScode on Chrome OS\nChromebook Community - Google Support\nChrome OS Wiki\nCrostini Wiki\nChromium OS is an open-source project that aims to build an operating system that provides a fast, simple, and more secure computing experience for people who spend most of their time on the web.\nchromeOS.dev is the digital home for all things Chrome OS. Learn how to adapt and optimize your existing apps to work on Chrome OS, the success other companies have had doing so, how to use Chrome OS as your developer machine, and keep up-to-date with the latest on Chrome OS.\nChrome Unboxed is a great website for learning all things Google Chrome. Such as the news, updates, reviews and unboxings.\nAndroid Runtime for Chrome (ARC) is a compatibility layer and sandboxing technology for running Android applications on desktop and laptop computers in an isolated environment. It allows applications to be safely run from a web browser, independent of Chrome OS at near native speeds.\nCloudReady is a ChromeOS alternative built from the source available in ChromiumOS repositories developed by Neverware. Neverware was acquired by Google in December 2020.",
       "items": [
         {
           "node_type": "item",
@@ -152,13 +152,361 @@
             "repo": "Chrome-OS-Guide",
             "stars": 99
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Crostini KDE Apps Setup",
+          "description": "is a tool that initializes a Chromebook Linux container to run KDE Apps. It also installs Discover which is an elegant, easy-to-use \"app store\" for Linux apps and nearly every app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 342760791,
+            "language": "Python",
+            "last_commit": "2023-11-01T20:12:25Z",
+            "owner": "joedefen",
+            "repo": "crostini-kde-setup",
+            "stars": 57
+          }
         }
       ],
       "title": "A guide on setting up your Chrome OS with all the essential Applications, Tools, and Games to make your experience with Chrome OS great!"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AppImage Manager",
+              "description": "is a package manager for AppImages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269521665,
+                "language": "Go",
+                "last_commit": "2023-10-24T14:36:46Z",
+                "owner": "AppImageCrafters",
+                "repo": "appimage-cli-tool",
+                "stars": 118
+              }
+            }
+          ],
+          "description": "AppImageHub is a build and distribution service for AppImage applications.\nAppImage Forum\nOpen the terminal and run:\nThen:",
+          "node_type": "group",
+          "title": "AppImages"
+        }
+      ],
+      "title": "Getting Software"
+    },
+    {
+      "description": "Android Studio is the development suite for Google's Android Operating System(OS). It's built on JetBrains IntelliJ IDEA software and designed specifically for Android development. It is available for download on Windows, macOS and Linux.\nLineageOS is a free and open-source operating system for various devices, based on the Android mobile platform.\nAnbox is an application that provides a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu, Debian Fedora, and openSUSE.\nAnbox Cloud is the mobile cloud computing platform delivered by Canonical. Run Android in the cloud, at high scale and on any type of hardware.\nGenymotion is a very fast Android emulator. The program itself is based on VirtualBox and is known for its effectively fast speed and is usefulness for running Android apps on a Windows, Mac and Linux desktop.\nDesktop\nLocal virtual devices with high performances.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Scrcpy",
+          "description": "is an application by Genymotion that provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access and works on GNU/Linux, Windows and macOS. The Android device requires at least API 21 (Android 5.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111583593,
+            "language": "C",
+            "last_commit": "2026-08-17T10:27:07Z",
+            "owner": "Genymobile",
+            "repo": "scrcpy",
+            "stars": 148168
+          }
+        }
+      ],
+      "title": "Android Development"
+    },
+    {
+      "description": "Flutter is Google's UI toolkit for crafting beautiful, natively compiled applications for mobile(Andorid and iOS), web, and desktop(Windows, MacOS, Linux, and Google Fuchsia) from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Style Guide for Flutter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31792824,
+                "language": "Dart",
+                "last_commit": "2026-08-24T14:28:29Z",
+                "owner": "flutter",
+                "repo": "flutter",
+                "stars": 178636
+              }
+            }
+          ],
+          "description": "Flutter Gems is a curated package guide for Flutter which functionally categorizes some of the most useful and popular flutter packages available on pub.dev Flutter Gems A Flutter package landscape guide comprising 1500+ neatly categorized useful and popular packages.\nDart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps using the Flutter framework.\nFlutter documentation\nCreating your first Flutter app\nBuild and release an Android app using Flutter\nFlutter Tools & techniques\nDart and Flutter: The Complete Developer's Guide on Udemy\nCreating an Interactive Story with Flutter on Coursera\nFlutter for Beginners course on Pluralsight\nFlutter Online Training Courses on LinkedIn Learning\nThe Complete Flutter App Development Bootcamp with Dart by App Brewery\nAdding Firebase to your Flutter app\nUsing Firebase and Firestore with Flutter\nFuchsia Project\nGetting Started with Fuchsia\nFuchsia Reference\nContributing to Fuchsia",
+          "node_type": "group",
+          "title": "Flutter Learning Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FlutterBoost",
+              "description": "is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174063999,
+                "language": "Dart",
+                "last_commit": "2026-06-09T11:37:43Z",
+                "owner": "alibaba",
+                "repo": "flutter_boost",
+                "stars": 7193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go-flutter",
+              "description": "is a package that brings Flutter to the desktop. project implements the Flutter's Embedding API using a single code base that runs on Windows, macOS, and Linux. For rendering, GLFW fits the job because it provides the right abstractions over the OpenGL's Buffer/Mouse/Keyboard for each platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145340771,
+                "language": "Go",
+                "last_commit": "2026-08-23T18:51:49Z",
+                "owner": "go-flutter-desktop",
+                "repo": "go-flutter",
+                "stars": 5931
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fluro",
+              "description": "is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89330326,
+                "language": "Dart",
+                "last_commit": "2023-03-22T17:54:12Z",
+                "owner": "lukepighetti",
+                "repo": "fluro",
+                "stars": 3713
+              }
+            }
+          ],
+          "description": "Firebase is a Backend-as-a-Service (BaaS) app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for your static files.\nFlutterFire is a set of Flutter plugins that enable Flutter apps to use Firebase services. You can follow an example that shows how to use these plugins in the Firebase for Flutter codelab.\nAppwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment.\nFlame is a minimalistic Flutter game engine.",
+          "node_type": "group",
+          "title": "Flutter Tools"
+        }
+      ],
+      "title": "Flutter Development"
+    },
+    {
+      "description": "The recommended hardware specifications are Intel Core i5 and i7, 16 GB Memory, and 128/256 GB HDD/SSD.\nTensorFlow Lite is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size.\nKeras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.It was developed with a focus on enabling fast experimentation. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML.\nPyTorch is a library for deep learning on irregular input data such as graphs, point clouds, and manifolds. Primarily developed by Facebook's AI Research lab.\nAmazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the machine learning process to make it easier to develop high quality models.\nAzure Databricks is a fast and collaborative Apache Spark-based big data analytics service designed for data science and data engineering. Azure Databricks, sets up your Apache Spark environment in minutes, autoscale, and collaborate on shared projects in an interactive workspace. Azure Databricks supports Python, Scala, R, Java, and SQL, as well as data science frameworks and libraries including TensorFlow, PyTorch, and scikit-learn.\nMicrosoft Cognitive Toolkit (CNTK) is an open-source toolkit for commercial-grade distributed deep learning. It describes neural networks as a series of computational steps via a directed graph. CNTK allows the user to easily realize and combine popular model types such as feed-forward DNNs, convolutional neural networks (CNNs) and recurrent neural networks (RNNs/LSTMs). CNTK implements stochastic gradient descent (SGD, error backpropagation) learning with automatic differentiation and parallelization across multiple GPUs and servers.\nApache Airflow is an open-source workflow management platform created by the community to programmatically author, schedule and monitor workflows. Install. Principles. Scalable. Airflow has a modular architecture and uses a message queue to orchestrate an arbitrary number of workers. Airflow is ready to scale to infinity.\nOpen Neural Network Exchange(ONNX) is an open ecosystem that empowers AI developers to choose the right tools as their project evolves. ONNX provides an open source format for AI models, both deep learning and traditional ML. It defines an extensible computation graph model, as well as definitions of built-in operators and standard data types.\nApache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity. At its core, MXNet contains a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. MXNet is portable and lightweight, scaling effectively to multiple GPUs and multiple machines. Support for Python, R, Julia, Scala, Go, Javascript and more.\nAutoGluon is toolkit for Deep learning that automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data.\nAnaconda is a very popular Data Science platform for machine learning and deep learning that enables users to develop models, train them, and deploy them.\nOpenCV is a highly optimized library with focus on real-time computer vision applications. The C++, Python, and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nScikit-Learn is a Python module for machine learning built on top of SciPy, NumPy, and matplotlib, making it easier to apply robust and simple implementations of many popular machine learning algorithms.\nWeka is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.\nJupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Jupyter is used widely in industries that do data cleaning and transformation, numerical simulation, statistical modeling, data visualization, data science, and machine learning.\nBigDL is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.\nEclipse Deeplearning4J (DL4J) is a set of projects intended to support all the needs of a JVM-based(Scala, Kotlin, Clojure, and Groovy) deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.\nChainer is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using CuPy for high performance training and inference.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PlaidML",
+          "description": "is an advanced and portable tensor compiler for enabling deep learning on laptops, embedded devices, or other devices where the available computing hardware is not well supported or the available software stack contains unpalatable license restrictions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 100326126,
+            "language": "C++",
+            "last_commit": "2023-07-23T20:16:29Z",
+            "owner": "plaidml",
+            "repo": "plaidml",
+            "stars": 4566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caffe",
+          "description": "is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12791642,
+            "language": "C++",
+            "last_commit": "2024-07-31T23:10:28Z",
+            "owner": "BVLC",
+            "repo": "caffe",
+            "stars": 34559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Theano",
+          "description": "is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2183193,
+            "language": "Python",
+            "last_commit": "2024-01-15T03:16:24Z",
+            "owner": "Theano",
+            "repo": "Theano",
+            "stars": 9998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nGraph",
+          "description": "is an open source C++ library, compiler and runtime for Deep Learning. The nGraph Compiler aims to accelerate developing AI workloads using any deep learning framework and deploying to a variety of hardware targets.It provides the freedom, performance, and ease-of-use to AI developers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 98252973,
+            "language": "C++",
+            "last_commit": "2020-10-15T21:54:02Z",
+            "owner": "NervanaSystems",
+            "repo": "ngraph",
+            "stars": 1344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cluster Manager for Apache Kafka(CMAK)",
+          "description": "is a tool for managing Apache Kafka clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29981861,
+            "language": "Scala",
+            "last_commit": "2023-08-02T19:26:23Z",
+            "owner": "yahoo",
+            "repo": "CMAK",
+            "stars": 11926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Numba",
+          "description": "is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3659275,
+            "language": "Python",
+            "last_commit": "2026-08-21T17:39:56Z",
+            "owner": "numba",
+            "repo": "numba",
+            "stars": 11126
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VirtManager",
+              "description": "is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36043078,
+                "language": "Python",
+                "last_commit": "2026-08-15T09:29:59Z",
+                "owner": "virt-manager",
+                "repo": "virt-manager",
+                "stars": 3230
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xen",
+              "description": "is focused on advancing virtualization in a number of different commercial and open source applications, including server virtualization, Infrastructure as a Services (IaaS), desktop virtualization, security applications, embedded and hardware appliances, and automotive/aviation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51007072,
+                "language": "C",
+                "last_commit": "2026-08-24T12:43:50Z",
+                "owner": "xen-project",
+                "repo": "xen",
+                "stars": 840
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ganeti",
+              "description": "is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software. Once installed, the tool assumes management of the virtual instances (Xen DomU).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25163509,
+                "language": "Python",
+                "last_commit": "2026-07-27T10:06:33Z",
+                "owner": "ganeti",
+                "repo": "ganeti",
+                "stars": 581
+              }
+            }
+          ],
+          "description": "KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). It consists of a loadable kernel module, kvm.ko, that provides the core virtualization infrastructure and a processor specific module, kvm-intel.ko or kvm-amd.ko.\nQEMU is a fast processor emulator using a portable dynamic translator. QEMU emulates a full system, including a processor and various peripherals. It can be used to launch a different Operating System without rebooting the PC or to debug system code.\nHyper-V enables running virtualized computer systems on top of a physical host. These virtualized systems can be used and managed just as if they were physical computer systems, however they exist in virtualized and isolated environment. Special software called a hypervisor manages access between the virtual systems and the physical hardware resources. Virtualization enables quick deployment of computer systems, a way to quickly restore systems to a previously known good state, and the ability to migrate systems between physical hosts.\noVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.Founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based allowing for centralized management of virtual machines, compute, storage and networking resources, from an easy-to-use web-based front-end with platform independent access.\nPacker is an open source tool for creating identical machine images for multiple platforms from a single source configuration. Packer is lightweight, runs on every major operating system, and is highly performant, creating machine images for multiple platforms in parallel. Packer does not replace configuration management like Chef or Puppet. In fact, when building images, Packer is able to use tools like Chef or Puppet to install software onto the image.\nVagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases production parity, and makes the \"works on my machine\" excuse a relic of the past. It provides easy to configure, reproducible, and portable work environments built on top of industry-standard technology and controlled by a single consistent workflow to help maximize the productivity and flexibility of you and your team.\nVMware Workstation is a hosted hypervisor that runs on x64 versions of Windows and Linux operating systems; it enables users to set up virtual machines on a single physical machine, and use them simultaneously along with the actual machine.\nVirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers.",
+          "node_type": "group",
+          "title": "Virtualization"
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Azure Data Studio",
+              "description": "is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 109200851,
+                "language": "TypeScript",
+                "last_commit": "2026-02-28T16:30:21Z",
+                "owner": "microsoft",
+                "repo": "azuredatastudio",
+                "stars": 7686
+              }
+            }
+          ],
+          "description": "Azure SQL Database is the intelligent, scalable, relational database service built for the cloud. It’s evergreen and always up to date, with AI-powered and automated features that optimize performance and durability for you. Serverless compute and Hyperscale storage options automatically scale resources on demand, so you can focus on building new applications without worrying about storage size or resource management.\nAzure SQL Managed Instance is a fully managed SQL Server Database engine instance that's hosted in Azure and placed in your network. This deployment model makes it easy to lift and shift your on-premises applications to the cloud with very few application and database changes. Managed instance has split compute and storage components.\nAzure Synapse Analytics is a limitless analytics service that brings together enterprise data warehousing and Big Data analytics. It gives you the freedom to query data on your terms, using either serverless or provisioned resources at scale. It brings together the best of the SQL technologies used in enterprise data warehousing, Spark technologies used in big data analytics, and Pipelines for data integration and ETL/ELT.\nMSSQL for Visual Studio Code is an extension for developing Microsoft SQL Server, Azure SQL Database and SQL Data Warehouse everywhere with a rich set of functionalities.\nSQL Server Data Tools (SSDT) is a development tool for building SQL Server relational databases, Azure SQL Databases, Analysis Services (AS) data models, Integration Services (IS) packages, and Reporting Services (RS) reports. With SSDT, a developer can design and deploy any SQL Server content type with the same ease as they would develop an application in Visual Studio or Visual Studio Code.\nBulk Copy Program is a command-line tool that comes with Microsoft SQL Server. BCP, allows you to import and export large amounts of data in and out of SQL Server databases quickly snd efficeiently.\nSQL Server Migration Assistant is a tool from Microsoft that simplifies database migration process from Oracle to SQL Server, Azure SQL Database, Azure SQL Database Managed Instance and Azure SQL Data Warehouse.\nSQL Server Integration Services is a development platform for building enterprise-level data integration and data transformations solutions. Use Integration Services to solve complex business problems by copying or downloading files, loading data warehouses, cleansing and mining data, and managing SQL Server objects and data.\nSQL Server Business Intelligence(BI) is a collection of tools in Microsoft's SQL Server for transforming raw data into information businesses can use to make decisions.\nTableau is a Data Visualization software used in relational databases, cloud databases, and spreadsheets. Tableau was acquired by Salesforce in August 2019.\nDataGrip is a professional DataBase IDE developed by Jet Brains that provides context-sensitive code completion, helping you to write SQL code faster. Completion is aware of the tables structure, foreign keys, and even database objects created in code you're editing.\nRStudio is an integrated development environment for R and Python, with a console, syntax-highlighting editor that supports direct code execution, and tools for plotting, history, debugging and workspace management.\nMySQL is a fully managed database service to deploy cloud-native applications using the world's most popular open source database.\nPostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.\nAmazon DynamoDB is a key-value and document database that delivers single-digit millisecond performance at any scale. It is a fully managed, multiregion, multimaster, durable database with built-in security, backup and restore, and in-memory caching for internet-scale applications.\nFoundationDB is an open source distributed database designed to handle large volumes of structured data across clusters of commodity servers. It organizes data as an ordered key-value store and employs ACID transactions for all operations. It is especially well-suited for read/write workloads but also has excellent performance for write-intensive workloads. FoundationDB was acquired by Apple in 2015.\nCouchbaseDB is an open source distributed multi-model NoSQL document-oriented database. It creates a key-value store with managed cache for sub-millisecond data operations, with purpose-built indexers for efficient queries and a powerful query engine for executing SQL queries.\nIBM DB2 is a collection of hybrid data management products offering a complete suite of AI-empowered capabilities designed to help you manage both structured and unstructured data on premises as well as in private and public cloud environments. Db2 is built on an intelligent common SQL engine designed for scalability and flexibility.\nMongoDB is a document database meaning it stores data in JSON-like documents.\nOracleDB is a powerful fully managed database helps developers manage business-critical data with the highest availability, reliability, and security.\nMariaDB is an enterprise open source database solution for modern, mission-critical applications.\nSQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.SQLite is the most used database engine in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day.\nSQLite Database Browser is an open source SQL tool that allows users to create, design and edits SQLite database files. It lets users show a log of all the SQL commands that have been issued by them and by the application itself.\ndbWatch is a complete database monitoring/management solution for SQL Server, Oracle, PostgreSQL, Sybase, MySQL and Azure. Designed for proactive management and automation of routine maintenance in large scale on-premise, hybrid/cloud database environments.\nCosmos DB Profiler is a real-time visual debugger allowing a development team to gain valuable insight and perspective into their usage of Cosmos DB database. It identifies over a dozen suspicious behaviors from your application’s interaction with Cosmos DB.\nAdminer is an SQL management client tool for managing databases, tables, relations, indexes, users. Adminer has support for all the popular database management systems such as MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB.\nDBeaver is an open source database tool for developers and database administrators. It offers supports for JDBC compliant databases such as MySQL, Oracle, IBM DB2, SQL Server, Firebird, SQLite, Sybase, Teradata, Firebird, Apache Hive, Phoenix, and Presto.\nDbVisualizer is a SQL management tool that allows users to manage a wide range of databases such as Oracle, Sybase, SQL Server, MySQL, H3, and SQLite.\nAppDynamics Database is a management product for Microsoft SQL Server. With AppDynamics you can monitor and trend key performance metrics such as resource consumption, database objects, schema statistics and more, allowing you to proactively tune and fix issues in a High-Volume Production Environment.\nToad is a SQL Server DBMS toolset developed by Quest. It increases productivity by using extensive automation, intuitive workflows, and built-in expertise. This SQL management tool resolve issues, manage change and promote the highest levels of code quality for both relational and non-relational databases.\nLepide SQL Server is an open source storage manager utility to analyse the performance of SQL Servers. It provides a complete overview of all configuration and permission changes being made to your SQL Server environment through an easy-to-use, graphical user interface.\nSequel Pro is a fast MacOS database management tool for working with MySQL. This SQL management tool helpful for interacting with your database by easily to adding new databases, new tables, and new rows.",
+          "node_type": "group",
+          "title": "Databases and Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "If would you like to contribute to this guide simply make a Pull Request",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342976563,
+                "language": "Shell",
+                "last_commit": "2024-01-04T22:22:59Z",
+                "owner": "mikeroyal",
+                "repo": "Chrome-OS-Guide",
+                "stars": 99
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Contribute"
+        }
+      ],
+      "title": "Databases"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:17:31.569Z",
+    "last_updated": "2026-08-24T14:45:21.475Z",
     "original_repository": "mikeroyal/Chrome-OS-Guide",
     "original_repository_id": 342976563,
     "original_repository_sha": "3a09b18b35cde095b227c28ec11d9bbfe6290cd6",
