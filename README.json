@@ -214,7 +214,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148168
+            "stars": 148202
           }
         }
       ],
@@ -234,10 +234,10 @@
                 "archived": false,
                 "id": 31792824,
                 "language": "Dart",
-                "last_commit": "2026-08-24T14:28:29Z",
+                "last_commit": "2026-08-25T06:14:25Z",
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178636
+                "stars": 178644
               }
             }
           ],
@@ -259,7 +259,7 @@
                 "last_commit": "2026-06-09T11:37:43Z",
                 "owner": "alibaba",
                 "repo": "flutter_boost",
-                "stars": 7193
+                "stars": 7192
               }
             },
             {
@@ -330,7 +330,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34559
+            "stars": 34558
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2023-08-02T19:26:23Z",
             "owner": "yahoo",
             "repo": "CMAK",
-            "stars": 11926
+            "stars": 11925
           }
         },
         {
@@ -387,10 +387,10 @@
             "archived": false,
             "id": 3659275,
             "language": "Python",
-            "last_commit": "2026-08-21T17:39:56Z",
+            "last_commit": "2026-08-25T06:02:21Z",
             "owner": "numba",
             "repo": "numba",
-            "stars": 11126
+            "stars": 11127
           }
         }
       ],
@@ -413,7 +413,7 @@
                 "last_commit": "2026-08-15T09:29:59Z",
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3230
+                "stars": 3231
               }
             },
             {
@@ -425,7 +425,7 @@
                 "archived": false,
                 "id": 51007072,
                 "language": "C",
-                "last_commit": "2026-08-24T12:43:50Z",
+                "last_commit": "2026-08-24T16:03:50Z",
                 "owner": "xen-project",
                 "repo": "xen",
                 "stars": 840
@@ -471,7 +471,7 @@
                 "last_commit": "2026-02-28T16:30:21Z",
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7686
+                "stars": 7685
               }
             }
           ],
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:45:21.475Z",
+    "last_updated": "2026-08-25T06:34:35.765Z",
     "original_repository": "mikeroyal/Chrome-OS-Guide",
     "original_repository_id": 342976563,
     "original_repository_sha": "3a09b18b35cde095b227c28ec11d9bbfe6290cd6",
