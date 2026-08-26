@@ -214,7 +214,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148204
+            "stars": 148278
           }
         }
       ],
@@ -234,10 +234,10 @@
                 "archived": false,
                 "id": 31792824,
                 "language": "Dart",
-                "last_commit": "2026-08-25T06:14:25Z",
+                "last_commit": "2026-08-26T02:58:36Z",
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178644
+                "stars": 178661
               }
             }
           ],
@@ -330,7 +330,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34558
+            "stars": 34555
           }
         },
         {
@@ -387,10 +387,10 @@
             "archived": false,
             "id": 3659275,
             "language": "Python",
-            "last_commit": "2026-08-25T06:02:21Z",
+            "last_commit": "2026-08-26T00:16:18Z",
             "owner": "numba",
             "repo": "numba",
-            "stars": 11127
+            "stars": 11128
           }
         }
       ],
@@ -413,7 +413,7 @@
                 "last_commit": "2026-08-15T09:29:59Z",
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3231
+                "stars": 3232
               }
             },
             {
@@ -425,10 +425,10 @@
                 "archived": false,
                 "id": 51007072,
                 "language": "C",
-                "last_commit": "2026-08-24T16:03:50Z",
+                "last_commit": "2026-08-26T06:48:50Z",
                 "owner": "xen-project",
                 "repo": "xen",
-                "stars": 840
+                "stars": 841
               }
             },
             {
@@ -471,7 +471,7 @@
                 "last_commit": "2026-02-28T16:30:21Z",
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7685
+                "stars": 7686
               }
             }
           ],
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:05:47.154Z",
+    "last_updated": "2026-08-26T07:05:42.843Z",
     "original_repository": "mikeroyal/Chrome-OS-Guide",
     "original_repository_id": 342976563,
     "original_repository_sha": "3a09b18b35cde095b227c28ec11d9bbfe6290cd6",
