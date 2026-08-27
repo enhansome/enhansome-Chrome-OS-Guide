@@ -214,7 +214,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148365
+            "stars": 148384
           }
         }
       ],
@@ -234,10 +234,10 @@
                 "archived": false,
                 "id": 31792824,
                 "language": "Dart",
-                "last_commit": "2026-08-27T11:15:52Z",
+                "last_commit": "2026-08-27T17:12:42Z",
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178669
+                "stars": 178674
               }
             }
           ],
@@ -330,7 +330,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556
+            "stars": 34557
           }
         },
         {
@@ -387,10 +387,10 @@
             "archived": false,
             "id": 3659275,
             "language": "Python",
-            "last_commit": "2026-08-26T00:16:18Z",
+            "last_commit": "2026-08-27T16:05:16Z",
             "owner": "numba",
             "repo": "numba",
-            "stars": 11130
+            "stars": 11131
           }
         }
       ],
@@ -413,7 +413,7 @@
                 "last_commit": "2026-08-15T09:29:59Z",
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3234
+                "stars": 3233
               }
             },
             {
@@ -471,7 +471,7 @@
                 "last_commit": "2026-02-28T16:30:21Z",
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7686
+                "stars": 7685
               }
             }
           ],
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:13.946Z",
+    "last_updated": "2026-08-27T17:35:47.528Z",
     "original_repository_info": {
       "archived": false,
       "id": 342976563,
