@@ -16,7 +16,8 @@
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "joedefen",
             "repo": "crostini-kde-setup",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         }
       ],
       "title": "A guide on setting up your Chrome OS with all the essential Applications, Tools, and Games to make your experience with Chrome OS great!"
@@ -189,7 +200,8 @@
                 "owner": "AppImageCrafters",
                 "repo": "appimage-cli-tool",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T18:37:00.593Z"
             }
           ],
           "description": "AppImageHub is a build and distribution service for AppImage applications.\nAppImage Forum\nOpen the terminal and run:\nThen:",
@@ -214,8 +226,9 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148384
-          }
+            "stars": 148445
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         }
       ],
       "title": "Android Development"
@@ -234,11 +247,12 @@
                 "archived": false,
                 "id": 31792824,
                 "language": "Dart",
-                "last_commit": "2026-08-27T17:12:42Z",
+                "last_commit": "2026-08-28T18:25:11Z",
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178674
-              }
+                "stars": 178693
+              },
+              "first_seen": "2026-08-28T18:37:00.593Z"
             }
           ],
           "description": "Flutter Gems is a curated package guide for Flutter which functionally categorizes some of the most useful and popular flutter packages available on pub.dev Flutter Gems A Flutter package landscape guide comprising 1500+ neatly categorized useful and popular packages.\nDart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps using the Flutter framework.\nFlutter documentation\nCreating your first Flutter app\nBuild and release an Android app using Flutter\nFlutter Tools & techniques\nDart and Flutter: The Complete Developer's Guide on Udemy\nCreating an Interactive Story with Flutter on Coursera\nFlutter for Beginners course on Pluralsight\nFlutter Online Training Courses on LinkedIn Learning\nThe Complete Flutter App Development Bootcamp with Dart by App Brewery\nAdding Firebase to your Flutter app\nUsing Firebase and Firestore with Flutter\nFuchsia Project\nGetting Started with Fuchsia\nFuchsia Reference\nContributing to Fuchsia",
@@ -259,8 +273,9 @@
                 "last_commit": "2026-06-09T11:37:43Z",
                 "owner": "alibaba",
                 "repo": "flutter_boost",
-                "stars": 7192
-              }
+                "stars": 7191
+              },
+              "first_seen": "2026-08-28T18:37:00.593Z"
             },
             {
               "node_type": "item",
@@ -275,7 +290,8 @@
                 "owner": "go-flutter-desktop",
                 "repo": "go-flutter",
                 "stars": 5931
-              }
+              },
+              "first_seen": "2026-08-28T18:37:00.593Z"
             },
             {
               "node_type": "item",
@@ -290,7 +306,8 @@
                 "owner": "lukepighetti",
                 "repo": "fluro",
                 "stars": 3713
-              }
+              },
+              "first_seen": "2026-08-28T18:37:00.593Z"
             }
           ],
           "description": "Firebase is a Backend-as-a-Service (BaaS) app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for your static files.\nFlutterFire is a set of Flutter plugins that enable Flutter apps to use Firebase services. You can follow an example that shows how to use these plugins in the Firebase for Flutter codelab.\nAppwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment.\nFlame is a minimalistic Flutter game engine.",
@@ -316,7 +333,8 @@
             "owner": "plaidml",
             "repo": "plaidml",
             "stars": 4566
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -330,8 +348,9 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34557
-          }
+            "stars": 34556
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -346,7 +365,8 @@
             "owner": "Theano",
             "repo": "Theano",
             "stars": 9998
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -361,7 +381,8 @@
             "owner": "NervanaSystems",
             "repo": "ngraph",
             "stars": 1344
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -376,7 +397,8 @@
             "owner": "yahoo",
             "repo": "CMAK",
             "stars": 11925
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         },
         {
           "node_type": "item",
@@ -387,11 +409,12 @@
             "archived": false,
             "id": 3659275,
             "language": "Python",
-            "last_commit": "2026-08-27T16:05:16Z",
+            "last_commit": "2026-08-28T17:05:35Z",
             "owner": "numba",
             "repo": "numba",
             "stars": 11131
-          }
+          },
+          "first_seen": "2026-08-28T18:37:00.593Z"
         }
       ],
       "title": "Machine Learning"
@@ -414,7 +437,8 @@
                 "owner": "virt-manager",
                 "repo": "virt-manager",
                 "stars": 3233
-              }
+              },
+              "first_seen": "2026-08-28T18:37:00.593Z"
             },
             {
               "node_type": "item",
@@ -428,8 +452,9 @@
                 "last_commit": "2026-08-27T10:43:49Z",
                 "owner": "xen-project",
                 "repo": "xen",
-                "stars": 842
-              }
+                "stars": 843
+              },
+              "first_seen": "2026-08-28T18:37:00.593Z"
             },
             {
               "node_type": "item",
@@ -444,7 +469,8 @@
                 "owner": "ganeti",
                 "repo": "ganeti",
                 "stars": 582
-              }
+              },
+              "first_seen": "2026-08-28T18:37:00.593Z"
             }
           ],
           "description": "KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). It consists of a loadable kernel module, kvm.ko, that provides the core virtualization infrastructure and a processor specific module, kvm-intel.ko or kvm-amd.ko.\nQEMU is a fast processor emulator using a portable dynamic translator. QEMU emulates a full system, including a processor and various peripherals. It can be used to launch a different Operating System without rebooting the PC or to debug system code.\nHyper-V enables running virtualized computer systems on top of a physical host. These virtualized systems can be used and managed just as if they were physical computer systems, however they exist in virtualized and isolated environment. Special software called a hypervisor manages access between the virtual systems and the physical hardware resources. Virtualization enables quick deployment of computer systems, a way to quickly restore systems to a previously known good state, and the ability to migrate systems between physical hosts.\noVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.Founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based allowing for centralized management of virtual machines, compute, storage and networking resources, from an easy-to-use web-based front-end with platform independent access.\nPacker is an open source tool for creating identical machine images for multiple platforms from a single source configuration. Packer is lightweight, runs on every major operating system, and is highly performant, creating machine images for multiple platforms in parallel. Packer does not replace configuration management like Chef or Puppet. In fact, when building images, Packer is able to use tools like Chef or Puppet to install software onto the image.\nVagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases production parity, and makes the \"works on my machine\" excuse a relic of the past. It provides easy to configure, reproducible, and portable work environments built on top of industry-standard technology and controlled by a single consistent workflow to help maximize the productivity and flexibility of you and your team.\nVMware Workstation is a hosted hypervisor that runs on x64 versions of Windows and Linux operating systems; it enables users to set up virtual machines on a single physical machine, and use them simultaneously along with the actual machine.\nVirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers.",
@@ -472,7 +498,8 @@
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
                 "stars": 7685
-              }
+              },
+              "first_seen": "2026-08-28T18:37:00.593Z"
             }
           ],
           "description": "Azure SQL Database is the intelligent, scalable, relational database service built for the cloud. It’s evergreen and always up to date, with AI-powered and automated features that optimize performance and durability for you. Serverless compute and Hyperscale storage options automatically scale resources on demand, so you can focus on building new applications without worrying about storage size or resource management.\nAzure SQL Managed Instance is a fully managed SQL Server Database engine instance that's hosted in Azure and placed in your network. This deployment model makes it easy to lift and shift your on-premises applications to the cloud with very few application and database changes. Managed instance has split compute and storage components.\nAzure Synapse Analytics is a limitless analytics service that brings together enterprise data warehousing and Big Data analytics. It gives you the freedom to query data on your terms, using either serverless or provisioned resources at scale. It brings together the best of the SQL technologies used in enterprise data warehousing, Spark technologies used in big data analytics, and Pipelines for data integration and ETL/ELT.\nMSSQL for Visual Studio Code is an extension for developing Microsoft SQL Server, Azure SQL Database and SQL Data Warehouse everywhere with a rich set of functionalities.\nSQL Server Data Tools (SSDT) is a development tool for building SQL Server relational databases, Azure SQL Databases, Analysis Services (AS) data models, Integration Services (IS) packages, and Reporting Services (RS) reports. With SSDT, a developer can design and deploy any SQL Server content type with the same ease as they would develop an application in Visual Studio or Visual Studio Code.\nBulk Copy Program is a command-line tool that comes with Microsoft SQL Server. BCP, allows you to import and export large amounts of data in and out of SQL Server databases quickly snd efficeiently.\nSQL Server Migration Assistant is a tool from Microsoft that simplifies database migration process from Oracle to SQL Server, Azure SQL Database, Azure SQL Database Managed Instance and Azure SQL Data Warehouse.\nSQL Server Integration Services is a development platform for building enterprise-level data integration and data transformations solutions. Use Integration Services to solve complex business problems by copying or downloading files, loading data warehouses, cleansing and mining data, and managing SQL Server objects and data.\nSQL Server Business Intelligence(BI) is a collection of tools in Microsoft's SQL Server for transforming raw data into information businesses can use to make decisions.\nTableau is a Data Visualization software used in relational databases, cloud databases, and spreadsheets. Tableau was acquired by Salesforce in August 2019.\nDataGrip is a professional DataBase IDE developed by Jet Brains that provides context-sensitive code completion, helping you to write SQL code faster. Completion is aware of the tables structure, foreign keys, and even database objects created in code you're editing.\nRStudio is an integrated development environment for R and Python, with a console, syntax-highlighting editor that supports direct code execution, and tools for plotting, history, debugging and workspace management.\nMySQL is a fully managed database service to deploy cloud-native applications using the world's most popular open source database.\nPostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.\nAmazon DynamoDB is a key-value and document database that delivers single-digit millisecond performance at any scale. It is a fully managed, multiregion, multimaster, durable database with built-in security, backup and restore, and in-memory caching for internet-scale applications.\nFoundationDB is an open source distributed database designed to handle large volumes of structured data across clusters of commodity servers. It organizes data as an ordered key-value store and employs ACID transactions for all operations. It is especially well-suited for read/write workloads but also has excellent performance for write-intensive workloads. FoundationDB was acquired by Apple in 2015.\nCouchbaseDB is an open source distributed multi-model NoSQL document-oriented database. It creates a key-value store with managed cache for sub-millisecond data operations, with purpose-built indexers for efficient queries and a powerful query engine for executing SQL queries.\nIBM DB2 is a collection of hybrid data management products offering a complete suite of AI-empowered capabilities designed to help you manage both structured and unstructured data on premises as well as in private and public cloud environments. Db2 is built on an intelligent common SQL engine designed for scalability and flexibility.\nMongoDB is a document database meaning it stores data in JSON-like documents.\nOracleDB is a powerful fully managed database helps developers manage business-critical data with the highest availability, reliability, and security.\nMariaDB is an enterprise open source database solution for modern, mission-critical applications.\nSQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.SQLite is the most used database engine in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day.\nSQLite Database Browser is an open source SQL tool that allows users to create, design and edits SQLite database files. It lets users show a log of all the SQL commands that have been issued by them and by the application itself.\ndbWatch is a complete database monitoring/management solution for SQL Server, Oracle, PostgreSQL, Sybase, MySQL and Azure. Designed for proactive management and automation of routine maintenance in large scale on-premise, hybrid/cloud database environments.\nCosmos DB Profiler is a real-time visual debugger allowing a development team to gain valuable insight and perspective into their usage of Cosmos DB database. It identifies over a dozen suspicious behaviors from your application’s interaction with Cosmos DB.\nAdminer is an SQL management client tool for managing databases, tables, relations, indexes, users. Adminer has support for all the popular database management systems such as MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB.\nDBeaver is an open source database tool for developers and database administrators. It offers supports for JDBC compliant databases such as MySQL, Oracle, IBM DB2, SQL Server, Firebird, SQLite, Sybase, Teradata, Firebird, Apache Hive, Phoenix, and Presto.\nDbVisualizer is a SQL management tool that allows users to manage a wide range of databases such as Oracle, Sybase, SQL Server, MySQL, H3, and SQLite.\nAppDynamics Database is a management product for Microsoft SQL Server. With AppDynamics you can monitor and trend key performance metrics such as resource consumption, database objects, schema statistics and more, allowing you to proactively tune and fix issues in a High-Volume Production Environment.\nToad is a SQL Server DBMS toolset developed by Quest. It increases productivity by using extensive automation, intuitive workflows, and built-in expertise. This SQL management tool resolve issues, manage change and promote the highest levels of code quality for both relational and non-relational databases.\nLepide SQL Server is an open source storage manager utility to analyse the performance of SQL Servers. It provides a complete overview of all configuration and permission changes being made to your SQL Server environment through an easy-to-use, graphical user interface.\nSequel Pro is a fast MacOS database management tool for working with MySQL. This SQL management tool helpful for interacting with your database by easily to adding new databases, new tables, and new rows.",
@@ -494,7 +521,8 @@
                 "owner": "mikeroyal",
                 "repo": "Chrome-OS-Guide",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T18:37:00.593Z"
             }
           ],
           "description": null,
@@ -506,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:35:47.528Z",
+    "last_updated": "2026-08-28T18:37:00.593Z",
     "original_repository_info": {
       "archived": false,
       "id": 342976563,
