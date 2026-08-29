@@ -504,10 +504,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-08-17T10:27:07Z",
-            "open_issues": 2884,
+            "open_issues": 2885,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148469,
+            "stars": 148488,
             "topics": [
               "android",
               "c",
@@ -541,11 +541,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T04:03:25Z",
-                "open_issues": 13196,
+                "last_commit": "2026-08-29T11:41:25Z",
+                "open_issues": 13199,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178699,
+                "stars": 178704,
                 "topics": [
                   "android",
                   "app-framework",
@@ -713,7 +713,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34557,
+            "stars": 34556,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -819,7 +819,7 @@
             "open_issues": 1798,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11132,
+            "stars": 11133,
             "topics": [
               "compiler",
               "cuda",
@@ -1012,7 +1012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:58:25.470Z",
+    "last_updated": "2026-08-29T12:39:04.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
