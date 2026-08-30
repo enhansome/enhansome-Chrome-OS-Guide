@@ -504,10 +504,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-08-17T10:27:07Z",
-            "open_issues": 2885,
+            "open_issues": 2886,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148488,
+            "stars": 148550,
             "topics": [
               "android",
               "c",
@@ -541,11 +541,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T11:41:25Z",
-                "open_issues": 13199,
+                "last_commit": "2026-08-30T02:53:44Z",
+                "open_issues": 13203,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178704,
+                "stars": 178715,
                 "topics": [
                   "android",
                   "app-framework",
@@ -617,7 +617,7 @@
                 "id": 145340771,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-23T18:51:49Z",
+                "last_commit": "2026-08-30T04:52:12Z",
                 "open_issues": 65,
                 "owner": "go-flutter-desktop",
                 "repo": "go-flutter",
@@ -738,7 +738,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 9998,
+            "stars": 9999,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -819,7 +819,7 @@
             "open_issues": 1798,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11133,
+            "stars": 11135,
             "topics": [
               "compiler",
               "cuda",
@@ -853,10 +853,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-15T09:29:59Z",
-                "open_issues": 163,
+                "open_issues": 164,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3233,
+                "stars": 3234,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -877,7 +877,7 @@
                 "open_issues": 3,
                 "owner": "xen-project",
                 "repo": "xen",
-                "stars": 843,
+                "stars": 844,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -1012,7 +1012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:39:04.767Z",
+    "last_updated": "2026-08-30T11:50:33.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
