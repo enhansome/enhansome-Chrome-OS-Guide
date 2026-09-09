@@ -369,7 +369,7 @@ Local virtual devices with high performances.
 <img src="https://user-images.githubusercontent.com/45159366/108637388-37a11f80-743f-11eb-9f37-6e22e1172f2d.png">
 </p>
 
-[Scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 149,118 | 🐛 2,899 | 🌐 C | 📅 2026-09-07 is an application by Genymotion that provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access and works on GNU/Linux, Windows and macOS. The Android device requires at least API 21 (Android 5.0).
+[Scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 149,206 | 🐛 2,901 | 🌐 C | 📅 2026-09-07 is an application by Genymotion that provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access and works on GNU/Linux, Windows and macOS. The Android device requires at least API 21 (Android 5.0).
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/108637389-396ae300-743f-11eb-971a-f5b554033552.jpg">
@@ -393,7 +393,7 @@ Local virtual devices with high performances.
 
 [Flutter documentation](https://flutter.dev/docs)
 
-[Style Guide for Flutter](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo) ⭐ 178,844 | 🐛 13,132 | 🌐 Dart | 📅 2026-09-08
+[Style Guide for Flutter](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo) ⭐ 178,865 | 🐛 13,126 | 🌐 Dart | 📅 2026-09-09
 
 [Creating your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 
@@ -429,9 +429,9 @@ Local virtual devices with high performances.
 
 [FlutterFire](https://firebase.flutter.dev/) is a set of [Flutter plugins](https://flutter.io/platform-plugins/) that enable Flutter apps to use [Firebase](https://firebase.google.com/) services. You can follow an example that shows how to use these plugins in the [Firebase for Flutter](https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html#0) codelab.
 
-[FlutterBoost](https://github.com/alibaba/flutter_boost) ⭐ 7,189 | 🐛 420 | 🌐 Dart | 📅 2026-06-09 is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.
+[FlutterBoost](https://github.com/alibaba/flutter_boost) ⭐ 7,190 | 🐛 420 | 🌐 Dart | 📅 2026-06-09 is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.
 
-[Go-flutter](https://github.com/go-flutter-desktop/go-flutter) ⭐ 5,932 | 🐛 65 | 🌐 Go | 📅 2026-09-03 is a package that brings Flutter to the desktop. project implements the [Flutter's Embedding API](https://github.com/flutter/flutter/wiki/Custom-Flutter-Engine-Embedders) ⭐ 178,844 | 🐛 13,132 | 🌐 Dart | 📅 2026-09-08 using a single code base that runs on Windows, macOS, and Linux. For rendering, [GLFW](https://github.com/go-gl/glfw) ⭐ 1,692 | 🐛 22 | 🌐 C | 📅 2026-08-23 fits the job because it provides the right abstractions over the OpenGL's Buffer/Mouse/Keyboard for each platform.
+[Go-flutter](https://github.com/go-flutter-desktop/go-flutter) ⭐ 5,931 | 🐛 65 | 🌐 Go | 📅 2026-09-08 is a package that brings Flutter to the desktop. project implements the [Flutter's Embedding API](https://github.com/flutter/flutter/wiki/Custom-Flutter-Engine-Embedders) ⭐ 178,865 | 🐛 13,126 | 🌐 Dart | 📅 2026-09-09 using a single code base that runs on Windows, macOS, and Linux. For rendering, [GLFW](https://github.com/go-gl/glfw) ⭐ 1,692 | 🐛 22 | 🌐 C | 📅 2026-08-23 fits the job because it provides the right abstractions over the OpenGL's Buffer/Mouse/Keyboard for each platform.
 
 [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment.
 
@@ -493,9 +493,9 @@ Local virtual devices with high performances.
 
 [Eclipse Deeplearning4J (DL4J)](https://deeplearning4j.konduit.ai/) is a set of projects intended to support all the needs of a JVM-based(Scala, Kotlin, Clojure, and Groovy) deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,151 | 🐛 1,796 | 🌐 Python | 📅 2026-09-04 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,150 | 🐛 1,788 | 🌐 Python | 📅 2026-09-08 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,308 | 🐛 701 | 🌐 Python | 📅 2026-09-08 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,310 | 🐛 698 | 🌐 Python | 📅 2026-09-09 for high performance training and inference.
 
 # Networking
 
@@ -799,4 +799,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
