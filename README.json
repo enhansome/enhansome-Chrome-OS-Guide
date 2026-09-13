@@ -507,7 +507,7 @@
             "open_issues": 2901,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 149440,
+            "stars": 149508,
             "topics": [
               "android",
               "c",
@@ -541,11 +541,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-12T06:25:56Z",
-                "open_issues": 13161,
+                "last_commit": "2026-09-13T09:45:13Z",
+                "open_issues": 13163,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178908,
+                "stars": 178923,
                 "topics": [
                   "android",
                   "app-framework",
@@ -713,7 +713,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34552,
+            "stars": 34553,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -819,7 +819,7 @@
             "open_issues": 1789,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11149,
+            "stars": 11151,
             "topics": [
               "compiler",
               "cuda",
@@ -939,7 +939,7 @@
                 "open_issues": 2608,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7681,
+                "stars": 7680,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -1012,7 +1012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T10:40:46.169Z",
+    "last_updated": "2026-09-13T11:44:32.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
