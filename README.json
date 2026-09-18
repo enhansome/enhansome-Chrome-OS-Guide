@@ -504,10 +504,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T21:10:36Z",
-            "open_issues": 2901,
+            "open_issues": 2902,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 149822,
+            "stars": 149897,
             "topics": [
               "android",
               "c",
@@ -541,11 +541,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-17T06:59:28Z",
-                "open_issues": 13185,
+                "last_commit": "2026-09-18T04:52:25Z",
+                "open_issues": 13205,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178983,
+                "stars": 178998,
                 "topics": [
                   "android",
                   "app-framework",
@@ -815,11 +815,11 @@
             "id": 3659275,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-16T23:41:56Z",
-            "open_issues": 1793,
+            "last_commit": "2026-09-17T19:24:53Z",
+            "open_issues": 1790,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11153,
+            "stars": 11156,
             "topics": [
               "compiler",
               "cuda",
@@ -1012,7 +1012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T11:35:09.178Z",
+    "last_updated": "2026-09-18T11:07:50.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",

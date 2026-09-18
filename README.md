@@ -369,7 +369,7 @@ Local virtual devices with high performances.
 <img src="https://user-images.githubusercontent.com/45159366/108637388-37a11f80-743f-11eb-9f37-6e22e1172f2d.png">
 </p>
 
-[Scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 149,822 | 🐛 2,901 | 🌐 C | 📅 2026-09-16 is an application by Genymotion that provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access and works on GNU/Linux, Windows and macOS. The Android device requires at least API 21 (Android 5.0).
+[Scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 149,897 | 🐛 2,902 | 🌐 C | 📅 2026-09-16 is an application by Genymotion that provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access and works on GNU/Linux, Windows and macOS. The Android device requires at least API 21 (Android 5.0).
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/108637389-396ae300-743f-11eb-971a-f5b554033552.jpg">
@@ -393,7 +393,7 @@ Local virtual devices with high performances.
 
 [Flutter documentation](https://flutter.dev/docs)
 
-[Style Guide for Flutter](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo) ⭐ 178,983 | 🐛 13,185 | 🌐 Dart | 📅 2026-09-17
+[Style Guide for Flutter](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo) ⭐ 178,998 | 🐛 13,205 | 🌐 Dart | 📅 2026-09-18
 
 [Creating your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 
@@ -431,7 +431,7 @@ Local virtual devices with high performances.
 
 [FlutterBoost](https://github.com/alibaba/flutter_boost) ⭐ 7,192 | 🐛 420 | 🌐 Dart | 📅 2026-06-09 is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.
 
-[Go-flutter](https://github.com/go-flutter-desktop/go-flutter) ⭐ 5,931 | 🐛 65 | 🌐 Go | 📅 2026-09-08 is a package that brings Flutter to the desktop. project implements the [Flutter's Embedding API](https://github.com/flutter/flutter/wiki/Custom-Flutter-Engine-Embedders) ⭐ 178,983 | 🐛 13,185 | 🌐 Dart | 📅 2026-09-17 using a single code base that runs on Windows, macOS, and Linux. For rendering, [GLFW](https://github.com/go-gl/glfw) ⭐ 1,692 | 🐛 23 | 🌐 C | 📅 2026-08-23 fits the job because it provides the right abstractions over the OpenGL's Buffer/Mouse/Keyboard for each platform.
+[Go-flutter](https://github.com/go-flutter-desktop/go-flutter) ⭐ 5,931 | 🐛 65 | 🌐 Go | 📅 2026-09-08 is a package that brings Flutter to the desktop. project implements the [Flutter's Embedding API](https://github.com/flutter/flutter/wiki/Custom-Flutter-Engine-Embedders) ⭐ 178,998 | 🐛 13,205 | 🌐 Dart | 📅 2026-09-18 using a single code base that runs on Windows, macOS, and Linux. For rendering, [GLFW](https://github.com/go-gl/glfw) ⭐ 1,692 | 🐛 23 | 🌐 C | 📅 2026-08-23 fits the job because it provides the right abstractions over the OpenGL's Buffer/Mouse/Keyboard for each platform.
 
 [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment.
 
@@ -493,9 +493,9 @@ Local virtual devices with high performances.
 
 [Eclipse Deeplearning4J (DL4J)](https://deeplearning4j.konduit.ai/) is a set of projects intended to support all the needs of a JVM-based(Scala, Kotlin, Clojure, and Groovy) deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,153 | 🐛 1,793 | 🌐 Python | 📅 2026-09-16 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,156 | 🐛 1,790 | 🌐 Python | 📅 2026-09-17 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,328 | 🐛 690 | 🌐 Python | 📅 2026-09-17 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,328 | 🐛 690 | 🌐 Python | 📅 2026-09-18 for high performance training and inference.
 
 # Networking
 
@@ -799,4 +799,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
