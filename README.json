@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "android",
               "android-app",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "android",
               "android-app",
@@ -103,7 +103,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "android",
               "android-app",
@@ -145,7 +145,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "android",
               "android-app",
@@ -187,7 +187,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "android",
               "android-app",
@@ -229,7 +229,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "android",
               "android-app",
@@ -271,7 +271,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "android",
               "android-app",
@@ -313,7 +313,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "android",
               "android-app",
@@ -355,7 +355,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "android",
               "android-app",
@@ -397,7 +397,7 @@
             "open_issues": 0,
             "owner": "mikeroyal",
             "repo": "Chrome-OS-Guide",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "android",
               "android-app",
@@ -503,11 +503,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T21:10:36Z",
-            "open_issues": 2902,
+            "last_commit": "2026-09-19T08:54:25Z",
+            "open_issues": 2904,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 149897,
+            "stars": 149981,
             "topics": [
               "android",
               "c",
@@ -541,11 +541,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-18T04:52:25Z",
-                "open_issues": 13205,
+                "last_commit": "2026-09-19T09:29:59Z",
+                "open_issues": 13238,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178998,
+                "stars": 179003,
                 "topics": [
                   "android",
                   "app-framework",
@@ -654,7 +654,7 @@
                 "open_issues": 43,
                 "owner": "lukepighetti",
                 "repo": "fluro",
-                "stars": 3713,
+                "stars": 3712,
                 "topics": [
                   "flutter",
                   "flutter-routing",
@@ -713,7 +713,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34553,
+            "stars": 34552,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -793,7 +793,7 @@
             "open_issues": 522,
             "owner": "yahoo",
             "repo": "CMAK",
-            "stars": 11924,
+            "stars": 11923,
             "topics": [
               "big-data",
               "cluster-management",
@@ -815,8 +815,8 @@
             "id": 3659275,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-17T19:24:53Z",
-            "open_issues": 1790,
+            "last_commit": "2026-09-18T19:55:18Z",
+            "open_issues": 1792,
             "owner": "numba",
             "repo": "numba",
             "stars": 11156,
@@ -856,7 +856,7 @@
                 "open_issues": 158,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3252,
+                "stars": 3253,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -894,8 +894,8 @@
                 "id": 25163509,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-17T06:27:18Z",
-                "open_issues": 337,
+                "last_commit": "2026-09-18T22:25:38Z",
+                "open_issues": 333,
                 "owner": "ganeti",
                 "repo": "ganeti",
                 "stars": 586,
@@ -976,7 +976,7 @@
                 "open_issues": 0,
                 "owner": "mikeroyal",
                 "repo": "Chrome-OS-Guide",
-                "stars": 99,
+                "stars": 98,
                 "topics": [
                   "android",
                   "android-app",
@@ -1012,7 +1012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:07:50.724Z",
+    "last_updated": "2026-09-19T10:52:11.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
@@ -1024,7 +1024,7 @@
       "open_issues": 0,
       "owner": "mikeroyal",
       "repo": "Chrome-OS-Guide",
-      "stars": 99,
+      "stars": 98,
       "topics": [
         "android",
         "android-app",
