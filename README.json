@@ -507,7 +507,7 @@
             "open_issues": 2904,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 149981,
+            "stars": 150051,
             "topics": [
               "android",
               "c",
@@ -541,11 +541,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-19T09:29:59Z",
-                "open_issues": 13238,
+                "last_commit": "2026-09-20T10:58:46Z",
+                "open_issues": 13248,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 179003,
+                "stars": 179017,
                 "topics": [
                   "android",
                   "app-framework",
@@ -713,7 +713,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34552,
+            "stars": 34553,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -819,7 +819,7 @@
             "open_issues": 1792,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11156,
+            "stars": 11158,
             "topics": [
               "compiler",
               "cuda",
@@ -856,7 +856,7 @@
                 "open_issues": 158,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3253,
+                "stars": 3252,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -895,7 +895,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-18T22:25:38Z",
-                "open_issues": 333,
+                "open_issues": 334,
                 "owner": "ganeti",
                 "repo": "ganeti",
                 "stars": 586,
@@ -1012,7 +1012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T10:52:11.456Z",
+    "last_updated": "2026-09-20T11:16:16.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
