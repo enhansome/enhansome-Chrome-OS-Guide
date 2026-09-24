@@ -507,7 +507,7 @@
             "open_issues": 2906,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 150244,
+            "stars": 150312,
             "topics": [
               "android",
               "c",
@@ -541,11 +541,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-23T10:13:11Z",
-                "open_issues": 13261,
+                "last_commit": "2026-09-24T08:49:21Z",
+                "open_issues": 13281,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 179057,
+                "stars": 179067,
                 "topics": [
                   "android",
                   "app-framework",
@@ -593,7 +593,7 @@
                 "open_issues": 420,
                 "owner": "alibaba",
                 "repo": "flutter_boost",
-                "stars": 7193,
+                "stars": 7195,
                 "topics": [
                   "android",
                   "dart",
@@ -621,7 +621,7 @@
                 "open_issues": 65,
                 "owner": "go-flutter-desktop",
                 "repo": "go-flutter",
-                "stars": 5931,
+                "stars": 5932,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -713,7 +713,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34551,
+            "stars": 34552,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -816,10 +816,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-21T20:11:56Z",
-            "open_issues": 1800,
+            "open_issues": 1802,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11158,
+            "stars": 11159,
             "topics": [
               "compiler",
               "cuda",
@@ -895,7 +895,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-22T13:12:01Z",
-                "open_issues": 333,
+                "open_issues": 334,
                 "owner": "ganeti",
                 "repo": "ganeti",
                 "stars": 586,
@@ -1012,7 +1012,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T11:28:21.145Z",
+    "last_updated": "2026-09-24T11:39:14.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
