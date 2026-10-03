@@ -83,11 +83,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:53:16Z",
-            "open_issues": 2913,
+            "last_commit": "2026-10-03T09:40:48Z",
+            "open_issues": 2912,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 150896,
+            "stars": 150910,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-03T04:17:49Z",
-                "open_issues": 13272,
+                "last_commit": "2026-10-03T06:28:42Z",
+                "open_issues": 13256,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 179266,
+                "stars": 179282,
                 "topics": [
                   "android",
                   "app-framework",
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:27:22.471Z",
+    "last_updated": "2026-10-03T11:34:48.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
