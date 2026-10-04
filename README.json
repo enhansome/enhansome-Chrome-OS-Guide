@@ -84,10 +84,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T09:40:48Z",
-            "open_issues": 2912,
+            "open_issues": 2915,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 150910,
+            "stars": 150984,
             "topics": [
               "android",
               "c",
@@ -123,10 +123,10 @@
                 "language": "Dart",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-03T06:28:42Z",
-                "open_issues": 13256,
+                "open_issues": 13290,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 179282,
+                "stars": 179334,
                 "topics": [
                   "android",
                   "app-framework",
@@ -294,7 +294,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34550,
+            "stars": 34551,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -319,7 +319,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10007,
+            "stars": 10008,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -374,7 +374,7 @@
             "open_issues": 522,
             "owner": "yahoo",
             "repo": "CMAK",
-            "stars": 11921,
+            "stars": 11920,
             "topics": [
               "big-data",
               "cluster-management",
@@ -397,10 +397,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-02T18:16:02Z",
-            "open_issues": 1820,
+            "open_issues": 1823,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11169,
+            "stars": 11170,
             "topics": [
               "compiler",
               "cuda",
@@ -434,10 +434,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-04T16:57:01Z",
-                "open_issues": 160,
+                "open_issues": 161,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3265,
+                "stars": 3267,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -479,7 +479,7 @@
                 "open_issues": 334,
                 "owner": "ganeti",
                 "repo": "ganeti",
-                "stars": 586,
+                "stars": 587,
                 "topics": [
                   "haskell",
                   "kvm",
@@ -520,7 +520,7 @@
                 "open_issues": 2608,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7680,
+                "stars": 7681,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:34:48.117Z",
+    "last_updated": "2026-10-04T12:15:58.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
