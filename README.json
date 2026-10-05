@@ -48,7 +48,7 @@
                 "open_issues": 8,
                 "owner": "AppImageCrafters",
                 "repo": "appimage-cli-tool",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "appimage",
                   "appimage-collection",
@@ -83,11 +83,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T09:40:48Z",
+            "last_commit": "2026-10-05T10:31:09Z",
             "open_issues": 2915,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 150984,
+            "stars": 151055,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-03T06:28:42Z",
-                "open_issues": 13290,
+                "last_commit": "2026-10-05T14:26:00Z",
+                "open_issues": 13292,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 179334,
+                "stars": 179346,
                 "topics": [
                   "android",
                   "app-framework",
@@ -174,7 +174,7 @@
                 "open_issues": 420,
                 "owner": "alibaba",
                 "repo": "flutter_boost",
-                "stars": 7196,
+                "stars": 7197,
                 "topics": [
                   "android",
                   "dart",
@@ -396,11 +396,11 @@
             "id": 3659275,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-02T18:16:02Z",
-            "open_issues": 1823,
+            "last_commit": "2026-10-05T07:24:58Z",
+            "open_issues": 1821,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11170,
+            "stars": 11171,
             "topics": [
               "compiler",
               "cuda",
@@ -437,7 +437,7 @@
                 "open_issues": 161,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3267,
+                "stars": 3268,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -458,7 +458,7 @@
                 "open_issues": 3,
                 "owner": "xen-project",
                 "repo": "xen",
-                "stars": 854,
+                "stars": 855,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:15:58.096Z",
+    "last_updated": "2026-10-05T14:28:16.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
