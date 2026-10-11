@@ -84,10 +84,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T06:44:51Z",
-            "open_issues": 2923,
+            "open_issues": 2924,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 151753,
+            "stars": 151818,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-10T10:47:46Z",
-                "open_issues": 13313,
+                "last_commit": "2026-10-11T11:23:44Z",
+                "open_issues": 13339,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 179288,
+                "stars": 179733,
                 "topics": [
                   "android",
                   "app-framework",
@@ -294,7 +294,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34550,
+            "stars": 34549,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -319,7 +319,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10007,
+            "stars": 10008,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -374,7 +374,7 @@
             "open_issues": 521,
             "owner": "yahoo",
             "repo": "CMAK",
-            "stars": 11917,
+            "stars": 11916,
             "topics": [
               "big-data",
               "cluster-management",
@@ -396,11 +396,11 @@
             "id": 3659275,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-09T08:21:54Z",
-            "open_issues": 1823,
+            "last_commit": "2026-10-11T00:21:26Z",
+            "open_issues": 1826,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11176,
+            "stars": 11174,
             "topics": [
               "compiler",
               "cuda",
@@ -520,7 +520,7 @@
                 "open_issues": 2608,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7680,
+                "stars": 7678,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T12:24:35.288Z",
+    "last_updated": "2026-10-11T12:42:11.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
