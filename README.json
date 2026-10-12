@@ -9,13 +9,13 @@
           "description": "is a tool that initializes a Chromebook Linux container to run KDE Apps. It also installs Discover which is an elegant, easy-to-use \"app store\" for Linux apps and nearly every app.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Initialize a Chromebook Linux container to run KDE Apps",
             "homepage": null,
             "id": 342760791,
             "language": "Python",
             "license": null,
-            "last_commit": "2023-11-01T20:12:25Z",
+            "last_commit": "2026-10-11T17:34:46Z",
             "open_issues": 0,
             "owner": "joedefen",
             "repo": "crostini-kde-setup",
@@ -84,10 +84,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T06:44:51Z",
-            "open_issues": 2924,
+            "open_issues": 2926,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 151818,
+            "stars": 151937,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-11T11:23:44Z",
-                "open_issues": 13339,
+                "last_commit": "2026-10-12T15:06:20Z",
+                "open_issues": 13354,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 179733,
+                "stars": 179900,
                 "topics": [
                   "android",
                   "app-framework",
@@ -174,7 +174,7 @@
                 "open_issues": 420,
                 "owner": "alibaba",
                 "repo": "flutter_boost",
-                "stars": 7198,
+                "stars": 7199,
                 "topics": [
                   "android",
                   "dart",
@@ -294,7 +294,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34549,
+            "stars": 34550,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -374,7 +374,7 @@
             "open_issues": 521,
             "owner": "yahoo",
             "repo": "CMAK",
-            "stars": 11916,
+            "stars": 11917,
             "topics": [
               "big-data",
               "cluster-management",
@@ -434,10 +434,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-04T16:57:01Z",
-                "open_issues": 165,
+                "open_issues": 168,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3272,
+                "stars": 3273,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -454,11 +454,11 @@
                 "id": 51007072,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T14:46:49Z",
+                "last_commit": "2026-10-12T12:46:49Z",
                 "open_issues": 4,
                 "owner": "xen-project",
                 "repo": "xen",
-                "stars": 855,
+                "stars": 856,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T12:42:11.004Z",
+    "last_updated": "2026-10-12T15:14:09.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
