@@ -84,10 +84,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T06:44:51Z",
-            "open_issues": 2929,
+            "open_issues": 2928,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 152030,
+            "stars": 152119,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-13T10:36:20Z",
-                "open_issues": 13349,
+                "last_commit": "2026-10-14T11:33:14Z",
+                "open_issues": 13340,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 180045,
+                "stars": 180169,
                 "topics": [
                   "android",
                   "app-framework",
@@ -174,7 +174,7 @@
                 "open_issues": 420,
                 "owner": "alibaba",
                 "repo": "flutter_boost",
-                "stars": 7199,
+                "stars": 7198,
                 "topics": [
                   "android",
                   "dart",
@@ -202,7 +202,7 @@
                 "open_issues": 65,
                 "owner": "go-flutter-desktop",
                 "repo": "go-flutter",
-                "stars": 5930,
+                "stars": 5931,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -273,7 +273,7 @@
             "open_issues": 265,
             "owner": "plaidml",
             "repo": "plaidml",
-            "stars": 4565,
+            "stars": 4566,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -294,7 +294,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34550,
+            "stars": 34549,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -319,7 +319,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10008,
+            "stars": 10007,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -396,11 +396,11 @@
             "id": 3659275,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-13T14:00:15Z",
-            "open_issues": 1827,
+            "last_commit": "2026-10-13T19:42:23Z",
+            "open_issues": 1822,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11175,
+            "stars": 11177,
             "topics": [
               "compiler",
               "cuda",
@@ -454,11 +454,11 @@
                 "id": 51007072,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T13:46:48Z",
+                "last_commit": "2026-10-14T10:11:48Z",
                 "open_issues": 4,
                 "owner": "xen-project",
                 "repo": "xen",
-                "stars": 856,
+                "stars": 857,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -517,10 +517,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-02-28T16:30:21Z",
-                "open_issues": 2608,
+                "open_issues": 2607,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7678,
+                "stars": 7679,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T14:05:09.297Z",
+    "last_updated": "2026-10-14T11:44:46.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
