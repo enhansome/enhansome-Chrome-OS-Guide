@@ -83,11 +83,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T21:40:27Z",
+            "last_commit": "2026-10-20T13:13:47Z",
             "open_issues": 2934,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 152609,
+            "stars": 152706,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-19T23:55:11Z",
-                "open_issues": 13413,
+                "last_commit": "2026-10-21T02:34:37Z",
+                "open_issues": 13432,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 180309,
+                "stars": 180320,
                 "topics": [
                   "android",
                   "app-framework",
@@ -174,7 +174,7 @@
                 "open_issues": 420,
                 "owner": "alibaba",
                 "repo": "flutter_boost",
-                "stars": 7197,
+                "stars": 7196,
                 "topics": [
                   "android",
                   "dart",
@@ -235,7 +235,7 @@
                 "open_issues": 43,
                 "owner": "lukepighetti",
                 "repo": "fluro",
-                "stars": 3711,
+                "stars": 3709,
                 "topics": [
                   "flutter",
                   "flutter-routing",
@@ -291,10 +291,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2024-07-31T23:10:28Z",
-            "open_issues": 1175,
+            "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34558,
+            "stars": 34553,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -396,11 +396,11 @@
             "id": 3659275,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-16T02:52:31Z",
-            "open_issues": 1822,
+            "last_commit": "2026-10-20T23:09:53Z",
+            "open_issues": 1824,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11182,
+            "stars": 11183,
             "topics": [
               "compiler",
               "cuda",
@@ -434,10 +434,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-04T16:57:01Z",
-                "open_issues": 170,
+                "open_issues": 173,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3287,
+                "stars": 3289,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -458,7 +458,7 @@
                 "open_issues": 4,
                 "owner": "xen-project",
                 "repo": "xen",
-                "stars": 857,
+                "stars": 858,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T11:28:49.332Z",
+    "last_updated": "2026-10-21T11:41:09.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
