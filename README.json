@@ -83,11 +83,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T13:13:47Z",
+            "last_commit": "2026-10-22T17:50:35Z",
             "open_issues": 2933,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 152836,
+            "stars": 152936,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-22T06:17:18Z",
-                "open_issues": 13444,
+                "last_commit": "2026-10-23T04:37:31Z",
+                "open_issues": 13457,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 180332,
+                "stars": 180336,
                 "topics": [
                   "android",
                   "app-framework",
@@ -174,7 +174,7 @@
                 "open_issues": 420,
                 "owner": "alibaba",
                 "repo": "flutter_boost",
-                "stars": 7196,
+                "stars": 7195,
                 "topics": [
                   "android",
                   "dart",
@@ -396,11 +396,11 @@
             "id": 3659275,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-22T03:58:15Z",
-            "open_issues": 1831,
+            "last_commit": "2026-10-22T22:27:00Z",
+            "open_issues": 1832,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11183,
+            "stars": 11185,
             "topics": [
               "compiler",
               "cuda",
@@ -437,7 +437,7 @@
                 "open_issues": 173,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3290,
+                "stars": 3295,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -454,7 +454,7 @@
                 "id": 51007072,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T07:17:48Z",
+                "last_commit": "2026-10-23T06:12:48Z",
                 "open_issues": 4,
                 "owner": "xen-project",
                 "repo": "xen",
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T11:43:43.578Z",
+    "last_updated": "2026-10-23T11:31:23.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
