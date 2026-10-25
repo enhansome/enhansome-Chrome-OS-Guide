@@ -83,11 +83,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T17:50:35Z",
+            "last_commit": "2026-10-24T16:21:52Z",
             "open_issues": 2935,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 153010,
+            "stars": 153095,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-24T05:12:38Z",
-                "open_issues": 13467,
+                "last_commit": "2026-10-25T04:29:27Z",
+                "open_issues": 13489,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 180352,
+                "stars": 180369,
                 "topics": [
                   "android",
                   "app-framework",
@@ -174,7 +174,7 @@
                 "open_issues": 420,
                 "owner": "alibaba",
                 "repo": "flutter_boost",
-                "stars": 7195,
+                "stars": 7194,
                 "topics": [
                   "android",
                   "dart",
@@ -294,7 +294,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34553,
+            "stars": 34554,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -319,7 +319,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10010,
+            "stars": 10009,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -434,10 +434,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-04T16:57:01Z",
-                "open_issues": 173,
+                "open_issues": 175,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3296,
+                "stars": 3298,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -520,7 +520,7 @@
                 "open_issues": 2607,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7678,
+                "stars": 7679,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T10:51:32.791Z",
+    "last_updated": "2026-10-25T11:17:21.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
