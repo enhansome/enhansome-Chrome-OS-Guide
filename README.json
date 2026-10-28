@@ -87,7 +87,7 @@
             "open_issues": 2940,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 153278,
+            "stars": 153370,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-27T08:10:56Z",
-                "open_issues": 13506,
+                "last_commit": "2026-10-28T07:37:37Z",
+                "open_issues": 13503,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 180388,
+                "stars": 180510,
                 "topics": [
                   "android",
                   "app-framework",
@@ -174,7 +174,7 @@
                 "open_issues": 420,
                 "owner": "alibaba",
                 "repo": "flutter_boost",
-                "stars": 7191,
+                "stars": 7192,
                 "topics": [
                   "android",
                   "dart",
@@ -202,7 +202,7 @@
                 "open_issues": 65,
                 "owner": "go-flutter-desktop",
                 "repo": "go-flutter",
-                "stars": 5934,
+                "stars": 5935,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -273,7 +273,7 @@
             "open_issues": 265,
             "owner": "plaidml",
             "repo": "plaidml",
-            "stars": 4567,
+            "stars": 4565,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -397,10 +397,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-27T02:45:47Z",
-            "open_issues": 1863,
+            "open_issues": 1841,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11189,
+            "stars": 11194,
             "topics": [
               "compiler",
               "cuda",
@@ -437,7 +437,7 @@
                 "open_issues": 176,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3298,
+                "stars": 3299,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -454,7 +454,7 @@
                 "id": 51007072,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T09:35:50Z",
+                "last_commit": "2026-10-28T11:23:50Z",
                 "open_issues": 4,
                 "owner": "xen-project",
                 "repo": "xen",
@@ -520,7 +520,7 @@
                 "open_issues": 2607,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7680,
+                "stars": 7678,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T12:03:08.905Z",
+    "last_updated": "2026-10-28T12:43:32.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
