@@ -84,10 +84,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T22:10:06Z",
-            "open_issues": 2943,
+            "open_issues": 2941,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 153466,
+            "stars": 153564,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-29T10:58:45Z",
-                "open_issues": 13518,
+                "last_commit": "2026-10-30T10:46:17Z",
+                "open_issues": 13491,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 180537,
+                "stars": 180679,
                 "topics": [
                   "android",
                   "app-framework",
@@ -437,7 +437,7 @@
                 "open_issues": 176,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3299,
+                "stars": 3300,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -454,7 +454,7 @@
                 "id": 51007072,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T12:47:51Z",
+                "last_commit": "2026-10-30T11:17:48Z",
                 "open_issues": 4,
                 "owner": "xen-project",
                 "repo": "xen",
@@ -476,7 +476,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-25T15:58:56Z",
-                "open_issues": 330,
+                "open_issues": 332,
                 "owner": "ganeti",
                 "repo": "ganeti",
                 "stars": 588,
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T12:53:22.573Z",
+    "last_updated": "2026-10-30T12:45:47.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
