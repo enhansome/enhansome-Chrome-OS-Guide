@@ -84,10 +84,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T22:10:06Z",
-            "open_issues": 2941,
+            "open_issues": 2942,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 153564,
+            "stars": 153643,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-30T10:46:17Z",
+                "last_commit": "2026-10-31T06:31:14Z",
                 "open_issues": 13491,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 180679,
+                "stars": 180788,
                 "topics": [
                   "android",
                   "app-framework",
@@ -174,7 +174,7 @@
                 "open_issues": 420,
                 "owner": "alibaba",
                 "repo": "flutter_boost",
-                "stars": 7193,
+                "stars": 7191,
                 "topics": [
                   "android",
                   "dart",
@@ -202,7 +202,7 @@
                 "open_issues": 65,
                 "owner": "go-flutter-desktop",
                 "repo": "go-flutter",
-                "stars": 5935,
+                "stars": 5936,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -273,7 +273,7 @@
             "open_issues": 265,
             "owner": "plaidml",
             "repo": "plaidml",
-            "stars": 4564,
+            "stars": 4565,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -294,7 +294,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34552,
+            "stars": 34553,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -319,7 +319,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10010,
+            "stars": 10011,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -340,7 +340,7 @@
             "open_issues": 5,
             "owner": "NervanaSystems",
             "repo": "ngraph",
-            "stars": 1343,
+            "stars": 1344,
             "topics": [
               "caffe2",
               "compiler",
@@ -434,10 +434,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-04T16:57:01Z",
-                "open_issues": 176,
+                "open_issues": 178,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3300,
+                "stars": 3301,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -520,7 +520,7 @@
                 "open_issues": 2607,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7678,
+                "stars": 7679,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T12:45:47.540Z",
+    "last_updated": "2026-10-31T12:16:37.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
