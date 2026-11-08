@@ -84,10 +84,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T21:30:53Z",
-            "open_issues": 2944,
+            "open_issues": 2946,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 154223,
+            "stars": 154301,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-07T07:42:27Z",
-                "open_issues": 13501,
+                "last_commit": "2026-11-08T09:34:51Z",
+                "open_issues": 13513,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 181083,
+                "stars": 181093,
                 "topics": [
                   "android",
                   "app-framework",
@@ -294,7 +294,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34558,
+            "stars": 34557,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -434,7 +434,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-04T16:57:01Z",
-                "open_issues": 179,
+                "open_issues": 180,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
                 "stars": 3306,
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T12:53:17.318Z",
+    "last_updated": "2026-11-08T13:15:45.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
