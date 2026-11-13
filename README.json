@@ -83,11 +83,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T20:17:35Z",
+            "last_commit": "2026-11-12T18:59:44Z",
             "open_issues": 2950,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 154659,
+            "stars": 154726,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-12T10:05:13Z",
-                "open_issues": 13540,
+                "last_commit": "2026-11-13T08:28:00Z",
+                "open_issues": 13535,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 181249,
+                "stars": 181251,
                 "topics": [
                   "android",
                   "app-framework",
@@ -273,7 +273,7 @@
             "open_issues": 265,
             "owner": "plaidml",
             "repo": "plaidml",
-            "stars": 4562,
+            "stars": 4561,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -294,7 +294,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556,
+            "stars": 34555,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -319,7 +319,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10015,
+            "stars": 10014,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -397,7 +397,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-11-12T12:17:28Z",
-            "open_issues": 1844,
+            "open_issues": 1843,
             "owner": "numba",
             "repo": "numba",
             "stars": 11210,
@@ -454,7 +454,7 @@
                 "id": 51007072,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T10:32:53Z",
+                "last_commit": "2026-11-13T11:58:52Z",
                 "open_issues": 4,
                 "owner": "xen-project",
                 "repo": "xen",
@@ -476,7 +476,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-10T15:16:17Z",
-                "open_issues": 332,
+                "open_issues": 333,
                 "owner": "ganeti",
                 "repo": "ganeti",
                 "stars": 591,
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:03:55.544Z",
+    "last_updated": "2026-11-13T14:28:57.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
