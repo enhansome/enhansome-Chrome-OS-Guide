@@ -83,11 +83,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T18:59:44Z",
-            "open_issues": 2952,
+            "last_commit": "2026-11-14T20:39:43Z",
+            "open_issues": 2956,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 154792,
+            "stars": 154879,
             "topics": [
               "android",
               "c",
@@ -123,10 +123,10 @@
                 "language": "Dart",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-14T04:19:13Z",
-                "open_issues": 13534,
+                "open_issues": 13548,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 181264,
+                "stars": 181273,
                 "topics": [
                   "android",
                   "app-framework",
@@ -294,7 +294,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34555,
+            "stars": 34554,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -319,7 +319,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10014,
+            "stars": 10016,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -400,7 +400,7 @@
             "open_issues": 1844,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11211,
+            "stars": 11215,
             "topics": [
               "compiler",
               "cuda",
@@ -437,7 +437,7 @@
                 "open_issues": 176,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3308,
+                "stars": 3309,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T13:25:27.156Z",
+    "last_updated": "2026-11-15T13:52:10.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
