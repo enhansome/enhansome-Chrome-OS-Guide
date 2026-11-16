@@ -87,7 +87,7 @@
             "open_issues": 2956,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 154879,
+            "stars": 154960,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-14T04:19:13Z",
-                "open_issues": 13548,
+                "last_commit": "2026-11-16T15:25:15Z",
+                "open_issues": 13566,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 181273,
+                "stars": 181238,
                 "topics": [
                   "android",
                   "app-framework",
@@ -174,7 +174,7 @@
                 "open_issues": 421,
                 "owner": "alibaba",
                 "repo": "flutter_boost",
-                "stars": 7193,
+                "stars": 7192,
                 "topics": [
                   "android",
                   "dart",
@@ -294,7 +294,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34554,
+            "stars": 34556,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -319,7 +319,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10016,
+            "stars": 10017,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -374,7 +374,7 @@
             "open_issues": 521,
             "owner": "yahoo",
             "repo": "CMAK",
-            "stars": 11918,
+            "stars": 11915,
             "topics": [
               "big-data",
               "cluster-management",
@@ -396,8 +396,8 @@
             "id": 3659275,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-12T12:17:28Z",
-            "open_issues": 1844,
+            "last_commit": "2026-11-16T15:12:58Z",
+            "open_issues": 1846,
             "owner": "numba",
             "repo": "numba",
             "stars": 11215,
@@ -437,7 +437,7 @@
                 "open_issues": 176,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3309,
+                "stars": 3310,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -476,7 +476,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-13T21:53:59Z",
-                "open_issues": 332,
+                "open_issues": 333,
                 "owner": "ganeti",
                 "repo": "ganeti",
                 "stars": 591,
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T13:52:10.686Z",
+    "last_updated": "2026-11-16T15:35:22.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
