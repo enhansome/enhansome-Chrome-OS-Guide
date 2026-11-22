@@ -83,11 +83,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T20:04:00Z",
-            "open_issues": 2960,
+            "last_commit": "2026-11-22T13:49:59Z",
+            "open_issues": 2958,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 155324,
+            "stars": 155393,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-21T06:37:25Z",
-                "open_issues": 13576,
+                "last_commit": "2026-11-22T05:31:47Z",
+                "open_issues": 13601,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 181327,
+                "stars": 181427,
                 "topics": [
                   "android",
                   "app-framework",
@@ -319,7 +319,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10018,
+            "stars": 10017,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -374,7 +374,7 @@
             "open_issues": 521,
             "owner": "yahoo",
             "repo": "CMAK",
-            "stars": 11913,
+            "stars": 11912,
             "topics": [
               "big-data",
               "cluster-management",
@@ -397,10 +397,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-11-21T03:26:26Z",
-            "open_issues": 1844,
+            "open_issues": 1847,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11221,
+            "stars": 11224,
             "topics": [
               "compiler",
               "cuda",
@@ -434,10 +434,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-04T16:57:01Z",
-                "open_issues": 176,
+                "open_issues": 177,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3313,
+                "stars": 3314,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T14:33:37.181Z",
+    "last_updated": "2026-11-22T14:28:51.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
