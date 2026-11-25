@@ -83,11 +83,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T00:19:58Z",
-            "open_issues": 2964,
+            "last_commit": "2026-11-24T20:51:39Z",
+            "open_issues": 2965,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 155566,
+            "stars": 155696,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-24T17:25:23Z",
-                "open_issues": 13646,
+                "last_commit": "2026-11-25T16:46:40Z",
+                "open_issues": 13632,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 181407,
+                "stars": 181498,
                 "topics": [
                   "android",
                   "app-framework",
@@ -202,7 +202,7 @@
                 "open_issues": 65,
                 "owner": "go-flutter-desktop",
                 "repo": "go-flutter",
-                "stars": 5932,
+                "stars": 5931,
                 "topics": [
                   "cross-platform",
                   "desktop",
@@ -235,7 +235,7 @@
                 "open_issues": 43,
                 "owner": "lukepighetti",
                 "repo": "fluro",
-                "stars": 3709,
+                "stars": 3708,
                 "topics": [
                   "flutter",
                   "flutter-routing",
@@ -294,7 +294,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34553,
+            "stars": 34552,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -319,7 +319,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10019,
+            "stars": 10018,
             "topics": []
           },
           "first_seen": "2026-08-28T18:37:00.593Z"
@@ -374,7 +374,7 @@
             "open_issues": 521,
             "owner": "yahoo",
             "repo": "CMAK",
-            "stars": 11912,
+            "stars": 11913,
             "topics": [
               "big-data",
               "cluster-management",
@@ -396,11 +396,11 @@
             "id": 3659275,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-23T16:29:06Z",
-            "open_issues": 1850,
+            "last_commit": "2026-11-25T17:01:08Z",
+            "open_issues": 1847,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11224,
+            "stars": 11226,
             "topics": [
               "compiler",
               "cuda",
@@ -437,7 +437,7 @@
                 "open_issues": 177,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3315,
+                "stars": 3317,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:37:00.593Z"
@@ -454,7 +454,7 @@
                 "id": 51007072,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T16:04:54Z",
+                "last_commit": "2026-11-25T14:41:56Z",
                 "open_issues": 4,
                 "owner": "xen-project",
                 "repo": "xen",
@@ -475,8 +475,8 @@
                 "id": 25163509,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-23T12:20:31Z",
-                "open_issues": 328,
+                "last_commit": "2026-11-24T22:04:03Z",
+                "open_issues": 327,
                 "owner": "ganeti",
                 "repo": "ganeti",
                 "stars": 590,
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T17:34:23.453Z",
+    "last_updated": "2026-11-25T17:05:58.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
