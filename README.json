@@ -83,11 +83,11 @@
             "id": 111583593,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T08:24:09Z",
+            "last_commit": "2026-11-26T20:25:25Z",
             "open_issues": 2964,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 155813,
+            "stars": 155925,
             "topics": [
               "android",
               "c",
@@ -122,11 +122,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-26T16:00:34Z",
-                "open_issues": 13662,
+                "last_commit": "2026-11-27T16:28:10Z",
+                "open_issues": 13678,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 181525,
+                "stars": 181570,
                 "topics": [
                   "android",
                   "app-framework",
@@ -294,7 +294,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34552,
+            "stars": 34548,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -454,7 +454,7 @@
                 "id": 51007072,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-26T16:37:55Z",
+                "last_commit": "2026-11-27T15:13:52Z",
                 "open_issues": 4,
                 "owner": "xen-project",
                 "repo": "xen",
@@ -544,7 +544,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T16:47:16.938Z",
+    "last_updated": "2026-11-27T16:32:54.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chrome OS Guide",
